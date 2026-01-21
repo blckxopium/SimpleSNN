@@ -1,7 +1,6 @@
 # 🧠 SimpleSNN - Spiking Neural Network in Java
 
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-None-green.svg)]()
 
 Простая реализация **спайковой нейронной сети** (SNN) с LIF-нейронами и STDP-обучением на чистой Java без внешних зависимостей.
